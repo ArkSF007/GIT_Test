@@ -1,6 +1,5 @@
 global class TestClass{
-	//master change 1
-    //New changes on new_branch
-    //changes
+	//Check changes 2 in new_branch
 	//Check changes 1
+	//Check changes 2 in new_branch
 }

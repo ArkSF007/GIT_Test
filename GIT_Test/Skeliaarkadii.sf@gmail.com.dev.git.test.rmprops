@@ -136,13 +136,13 @@
         <RemoteItemProperties>
             <ItemKey>src\classes\TestClass.cls</ItemKey>
             <Id>01p1t000003v8qnAAA</Id>
-            <Hash>tcfYduF+B7zlDGdCzBZHhw==</Hash>
-            <LastModifiedDateUtcTicks>131783784230000000</LastModifiedDateUtcTicks>
+            <Hash>AJTOjbnDgJ7rpfCbet4v6g==</Hash>
+            <LastModifiedDateUtcTicks>131783789750000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\classes\TestClass.cls-meta.xml</ItemKey>
             <Hash>Zq3gQSxTZehdIucyITjunw==</Hash>
-            <LastModifiedDateUtcTicks>131783784230000000</LastModifiedDateUtcTicks>
+            <LastModifiedDateUtcTicks>131783789750000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
             <ItemKey>src\cleanDataServices\DataCloudGeoLocation.cleanDataService</ItemKey>

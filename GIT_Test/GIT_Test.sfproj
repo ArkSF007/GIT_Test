@@ -22,6 +22,7 @@
     <Folder Include="assignmentRules\" />
     <Folder Include="autoResponseRules\" />
     <Folder Include="certs\" />
+    <Folder Include="classes\" />
     <Folder Include="cleanDataServices\" />
     <Folder Include="communities\" />
     <Folder Include="connectedApps\" />
@@ -332,28 +333,8 @@
       <PhysicalRelativePath>src\layouts\Global-Global Layout.layout</PhysicalRelativePath>
       <SubType>Layout</SubType>
     </Object>
-    <Object Include="layouts\Goal-Goal Layout.layout">
-      <PhysicalRelativePath>src\layouts\Goal-Goal Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\GoalLink-Goal Link Layout.layout">
-      <PhysicalRelativePath>src\layouts\GoalLink-Goal Link Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
     <Object Include="layouts\Idea-Idea Layout.layout">
       <PhysicalRelativePath>src\layouts\Idea-Idea Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\JobTracker-Job Tracker Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\JobTracker-Job Tracker Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\JobTracker-Job Tracker Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\JobTracker-Job Tracker Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\JobTracker-Job Tracker Layout.layout">
-      <PhysicalRelativePath>src\layouts\JobTracker-Job Tracker Layout.layout</PhysicalRelativePath>
       <SubType>Layout</SubType>
     </Object>
     <Object Include="layouts\Lead-Lead %28Marketing%29 Layout.layout">
@@ -374,18 +355,6 @@
     </Object>
     <Object Include="layouts\Macro-Macro Layout.layout">
       <PhysicalRelativePath>src\layouts\Macro-Macro Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\Metric-Completion Metric Layout.layout">
-      <PhysicalRelativePath>src\layouts\Metric-Completion Metric Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\Metric-Metric Layout.layout">
-      <PhysicalRelativePath>src\layouts\Metric-Metric Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\MetricDataLink-Metric Data Link Layout.layout">
-      <PhysicalRelativePath>src\layouts\MetricDataLink-Metric Data Link Layout.layout</PhysicalRelativePath>
       <SubType>Layout</SubType>
     </Object>
     <Object Include="layouts\Opportunity-Opportunity %28Marketing%29 Layout.layout">
@@ -474,74 +443,6 @@
     </Object>
     <Object Include="layouts\UserProvisioningRequest-User Provisioning Request Layout.layout">
       <PhysicalRelativePath>src\layouts\UserProvisioningRequest-User Provisioning Request Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkCoaching-Coaching Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkCoaching-Coaching Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedback-Feedback Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedback-Feedback Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedback-Feedback Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedback-Feedback Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedback-Feedback Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedback-Feedback Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestion-Feedback Question Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestion-Feedback Question Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestion-Feedback Question Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestion-Feedback Question Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestion-Feedback Question Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestion-Feedback Question Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackRequest-Feedback Request Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackRequest-Feedback Request Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackRequest-Feedback Request Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackRequest-Feedback Request Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackRequest-Feedback Request Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackRequest-Feedback Request Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkFeedbackTemplate-Feedback Template Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkFeedbackTemplate-Feedback Template Layout.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkPerformanceCycle-Performance Cycle Layout - Summer %2715.layout">
-      <PhysicalRelativePath>src\layouts\WorkPerformanceCycle-Performance Cycle Layout - Summer %2715.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkPerformanceCycle-Performance Cycle Layout - Winter %2716.layout">
-      <PhysicalRelativePath>src\layouts\WorkPerformanceCycle-Performance Cycle Layout - Winter %2716.layout</PhysicalRelativePath>
-      <SubType>Layout</SubType>
-    </Object>
-    <Object Include="layouts\WorkPerformanceCycle-Performance Cycle Layout.layout">
-      <PhysicalRelativePath>src\layouts\WorkPerformanceCycle-Performance Cycle Layout.layout</PhysicalRelativePath>
       <SubType>Layout</SubType>
     </Object>
     <Object Include="objects\Account.object">
@@ -1302,6 +1203,12 @@
     </Object>
   </ItemGroup>
   <ItemGroup>
+    <None Include="classes\TestClass.cls-meta.xml">
+      <SubType>Metadata</SubType>
+      <PhysicalRelativePath>src\classes\TestClass.cls-meta.xml</PhysicalRelativePath>
+      <MetadataType>Metadata</MetadataType>
+      <DependentUpon>classes\TestClass.cls</DependentUpon>
+    </None>
     <None Include="email\unfiled$public\MarketingProductInquiryResponse.email-meta.xml">
       <PhysicalRelativePath>src\email\unfiled$public\MarketingProductInquiryResponse.email-meta.xml</PhysicalRelativePath>
       <SubType>Metadata</SubType>
@@ -1393,5 +1300,12 @@
       </PackageName>
       <DependentUpon>email\unfiled$public\SUPPORTSelfServiceResetPasswordSAMPLE.email</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\TestClass.cls">
+      <SubType>Class</SubType>
+      <PhysicalRelativePath>src\classes\TestClass.cls</PhysicalRelativePath>
+      <MetadataType>ApexClass</MetadataType>
+    </Compile>
   </ItemGroup>
 </Project>

@@ -134,6 +134,17 @@
             <LastModifiedDateUtcTicks>116444736000000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
+            <ItemKey>src\classes\TestClass.cls</ItemKey>
+            <Id>01p1t000003v8qnAAA</Id>
+            <Hash>OOwdczshY5bIt5WMxM0zaQ==</Hash>
+            <LastModifiedDateUtcTicks>131783742120000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
+            <ItemKey>src\classes\TestClass.cls-meta.xml</ItemKey>
+            <Hash>Zq3gQSxTZehdIucyITjunw==</Hash>
+            <LastModifiedDateUtcTicks>131783742120000000</LastModifiedDateUtcTicks>
+        </RemoteItemProperties>
+        <RemoteItemProperties>
             <ItemKey>src\cleanDataServices\DataCloudGeoLocation.cleanDataService</ItemKey>
             <Id>07S1t000000PHU8EAO</Id>
             <Hash>A2XlaKUy+iGmPkMEUvu4PA==</Hash>
@@ -481,39 +492,9 @@
             <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
-            <ItemKey>src\layouts\Goal-Goal Layout.layout</ItemKey>
-            <Id>00h1t000001IXTDAA4</Id>
-            <Hash>nnt5X3YfubeeQe1M8FuAyQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\GoalLink-Goal Link Layout.layout</ItemKey>
-            <Id>00h1t000001IXTFAA4</Id>
-            <Hash>JolX4nuMk/uVq8id/BFBFg==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
             <ItemKey>src\layouts\Idea-Idea Layout.layout</ItemKey>
             <Id>00h1t000001IXT4AAO</Id>
             <Hash>fxAJHpilm0lJksnZqDVY+Q==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\JobTracker-Job Tracker Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSvAAO</Id>
-            <Hash>5TULDzULX7zTpYvHbTothQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\JobTracker-Job Tracker Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTLAA4</Id>
-            <Hash>5TULDzULX7zTpYvHbTothQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\JobTracker-Job Tracker Layout.layout</ItemKey>
-            <Id>00h1t000001IXTCAA4</Id>
-            <Hash>1Yjia+300SpcDatJ54USow==</Hash>
             <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
@@ -544,24 +525,6 @@
             <ItemKey>src\layouts\Macro-Macro Layout.layout</ItemKey>
             <Id>00h1t000001IXSSAA4</Id>
             <Hash>6EMZwMqtdGXVGFqMzlwHJg==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\Metric-Completion Metric Layout.layout</ItemKey>
-            <Id>00h1t000001IXTHAA4</Id>
-            <Hash>Lu2b/F3k4nxfzdmPE2tqYA==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\MetricDataLink-Metric Data Link Layout.layout</ItemKey>
-            <Id>00h1t000001IXTGAA4</Id>
-            <Hash>PuXD6uGeeJCS9BZCEs+rKw==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\Metric-Metric Layout.layout</ItemKey>
-            <Id>00h1t000001IXTEAA4</Id>
-            <Hash>XTRozMMbYuSZQNl51cPX4A==</Hash>
             <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
@@ -694,108 +657,6 @@
             <ItemKey>src\layouts\User-User Layout.layout</ItemKey>
             <Id>00h1t000001IXTAAA4</Id>
             <Hash>ByYvF92txlGbpIa9nSKh+A==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkCoaching-Coaching Layout.layout</ItemKey>
-            <Id>00h1t000001IXSrAAO</Id>
-            <Hash>sw+hpfafeSt3nfOTdB0uyQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedback-Feedback Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSwAAO</Id>
-            <Hash>pKKnNRqHj/Vyi+KdZa6qDQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedback-Feedback Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTIAA4</Id>
-            <Hash>pKKnNRqHj/Vyi+KdZa6qDQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedback-Feedback Layout.layout</ItemKey>
-            <Id>00h1t000001IXSWAA4</Id>
-            <Hash>KtJ95I4h66DGLl9jqee88g==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestion-Feedback Question Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSzAAO</Id>
-            <Hash>Ntve31NQrQDpoRqsBkXsUw==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestion-Feedback Question Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTNAA4</Id>
-            <Hash>Ntve31NQrQDpoRqsBkXsUw==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestion-Feedback Question Layout.layout</ItemKey>
-            <Id>00h1t000001IXSYAA4</Id>
-            <Hash>06kJMdjIaKESulG3J2ALsA==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSyAAO</Id>
-            <Hash>7SW3Gmu005Gxjad7QYb4aQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTMAA4</Id>
-            <Hash>7SW3Gmu005Gxjad7QYb4aQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackQuestionSet-Feedback Question Set Layout.layout</ItemKey>
-            <Id>00h1t000001IXSZAA4</Id>
-            <Hash>7SW3Gmu005Gxjad7QYb4aQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackRequest-Feedback Request Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSxAAO</Id>
-            <Hash>o2f4pY9c+5/9Tfm1CLG9aQ==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackRequest-Feedback Request Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTJAA4</Id>
-            <Hash>jfOAW/Wth/jSc/HE37JwIg==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackRequest-Feedback Request Layout.layout</ItemKey>
-            <Id>00h1t000001IXSXAA4</Id>
-            <Hash>QxMFovgLKbF9c33rogBZ6Q==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkFeedbackTemplate-Feedback Template Layout.layout</ItemKey>
-            <Id>00h1t000001IXSaAAO</Id>
-            <Hash>B/iLNsn4yB9vd6yct0qeRA==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkPerformanceCycle-Performance Cycle Layout - Summer %2715.layout</ItemKey>
-            <Id>00h1t000001IXSuAAO</Id>
-            <Hash>SYewDprbC+S77kc3TqZ07Q==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkPerformanceCycle-Performance Cycle Layout - Winter %2716.layout</ItemKey>
-            <Id>00h1t000001IXTKAA4</Id>
-            <Hash>SYewDprbC+S77kc3TqZ07Q==</Hash>
-            <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
-        </RemoteItemProperties>
-        <RemoteItemProperties>
-            <ItemKey>src\layouts\WorkPerformanceCycle-Performance Cycle Layout.layout</ItemKey>
-            <Id>00h1t000001IXSbAAO</Id>
-            <Hash>YoPMG5U/3Hckb9Ybr8Hcxg==</Hash>
             <LastModifiedDateUtcTicks>131782926960000000</LastModifiedDateUtcTicks>
         </RemoteItemProperties>
         <RemoteItemProperties>
